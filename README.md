@@ -3,9 +3,9 @@
 This repository contains the implementation of the HCovBi-Caps model for detecting hate speech. 
 
     Pre-requisite:
-    Twitter REST API
-    Keras
-    Numpy
-    Pandas
-    Python 3.7
-    GloVe
+    1. Twitter REST API
+    2. Keras
+    3. Numpy
+    4. Pandas
+    5. Python 3.7
+    6. GloVe
