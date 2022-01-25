@@ -11,3 +11,11 @@ This repository contains the implementation of the HCovBi-Caps model for detecti
     4. Pandas
     5. Python 3.7
     6. GloVe
+    
+    
+
+Cite paper:
+------------------------------------------
+Khan, S., Kamal, A., Fazil, M., Alshara, M.A., Sejwal, V.K., Alotaibi, R.M., Baig, A. and Alqahtani, S., (2022). HCovBi-Caps: Hate Speech Detection using Convolutional and Bi-Directional Gated Recurrent Unit with Capsule Network. IEEE Access
+
+DOI: 10.1109/ACCESS.2022.314379
