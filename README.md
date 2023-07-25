@@ -18,4 +18,4 @@ Khan, S., Kamal, A., Fazil, M., Alshara, M.A., Sejwal, V.K., Alotaibi, R.M., Bai
 
 DOI: 10.1109/ACCESS.2022.314379
 
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9682725
+Link: https://ieeexplore.ieee.org/abstract/document/9682725
