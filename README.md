@@ -14,7 +14,7 @@ This repository contains the implementation of the HCovBi-Caps model for detecti
 
 Cite paper:
 ------------------------------------------
-Khan, S., Kamal, A., Fazil, M., Alshara, M.A., Sejwal, V.K., Alotaibi, R.M., Baig, A. and Alqahtani, S., (2022). HCovBi-Caps: Hate Speech Detection using Convolutional and Bi-Directional Gated Recurrent Unit with Capsule Network. IEEE Access
+Khan, S., Kamal, A., Fazil, M., Alshara, M.A., Sejwal, V.K., Alotaibi, R.M., Baig, A. and Alqahtani, S., (2022). HCovBi-Caps: Hate Speech Detection using Convolutional and Bi-Directional Gated Recurrent Unit with Capsule Network. IEEE Access, 10, 7881-7894.
 
 DOI: 10.1109/ACCESS.2022.314379
 
